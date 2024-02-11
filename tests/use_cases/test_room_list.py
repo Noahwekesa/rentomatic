@@ -18,7 +18,7 @@ def domain_rooms():
         latitude=51.75436293,
     )
 
-room_2 = Room(
+    room_2 = Room(
         code=uuid.uuid4(),
         size=405,
         price=66,
